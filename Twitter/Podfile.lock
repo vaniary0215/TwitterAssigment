@@ -1,0 +1,30 @@
+PODS:
+  - ReachabilitySwift (4.3.1)
+  - SDWebImage (5.0.5):
+    - SDWebImage/Core (= 5.0.5)
+  - SDWebImage/Core (5.0.5)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+
+DEPENDENCIES:
+  - ReachabilitySwift
+  - SDWebImage
+  - TwitterKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReachabilitySwift
+    - SDWebImage
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SDWebImage: f86b0a0713195d1c734335d010697d44af10d165
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+
+PODFILE CHECKSUM: ee4f0a4467f3a22bd3eff7782875755c03051d1f
+
+COCOAPODS: 1.7.1
